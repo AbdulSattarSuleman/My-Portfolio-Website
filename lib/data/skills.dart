@@ -6,13 +6,13 @@ class Skill {
 
 // ignore: non_constant_identifier_names
 List<Skill> SKILLS = [
-  Skill(name: 'Java'),
-  Skill(name: 'Kotlin'),
   Skill(name: 'Dart'),
-  Skill(name: 'Php'),
-  Skill(name: 'Java Script'),
   Skill(name: 'Flutter'),
-  Skill(name: 'NodeJs'),
-  Skill(name: 'Laravel'),
+  Skill(name: 'Wordpress'),
+  Skill(name: 'Woocommerce'),
+  Skill(name: 'Wordpress Flatsome Theme'),
+  Skill(name: 'Wordpress Avada Theme'),
+  Skill(name: 'Payment Integration'),
+  Skill(name: 'Website SEO'),
   Skill(name: 'Git'),
 ];

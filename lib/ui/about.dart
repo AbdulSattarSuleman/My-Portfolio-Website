@@ -8,9 +8,9 @@ import '../config/styles.dart';
 import '../config/colors.dart';
 
 class About extends StatelessWidget {
-  final String _avatar = 'images/ouahid.png';
+  final String _avatar = 'images/abdul.jpg';
   final String _description =
-      "I am developer has around 4 years experience developing mobile and web applications, using different languages and techniques.";
+      "I am Wordpress developer & FLutter Developer. I created Many Websites. I have Experince Around 1.5 years. ";
 
   @override
   Widget build(BuildContext context) => ResponsiveWidget(

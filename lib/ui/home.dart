@@ -137,13 +137,13 @@ class _HomeState extends State<Home> {
                         ),
                       ),
                       const SizedBox(width: 20),
-                      RaisedButton(
+                      ElevatedButton(
                         onPressed: _scrollToContactUs,
-                        color: AppColors.yellow,
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 40,
-                          vertical: 15,
-                        ),
+                        // color: AppColors.yellow,
+                        // padding: const EdgeInsets.symmetric(
+                        //   horizontal: 40,
+                        //   vertical: 15,
+                        // ),
                         child: Text(
                           'Contact Me',
                           style: TextStyle(

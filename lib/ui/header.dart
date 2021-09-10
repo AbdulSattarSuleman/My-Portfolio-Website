@@ -6,10 +6,10 @@ import '../config/constants.dart';
 import '../config/colors.dart';
 
 class Header extends StatelessWidget {
-  final String _name = "Abdelouahed";
-  final String _job = "Mobile Developer";
+  final String _name = "Abdul Sattar Suleman";
+  final String _job = "Web & Mobile Developer";
   final String _description =
-      "I am developer has around 4 years experience developing mobile and web applications, using different languages and techniques.";
+      "I am Wordpress developer  has around 1.5 years experience developing Websites, Ecommerce Websites using different languages and techniques.";
 
   @override
   Widget build(BuildContext context) => ResponsiveWidget(
