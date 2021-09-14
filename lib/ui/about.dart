@@ -10,7 +10,7 @@ import '../config/colors.dart';
 class About extends StatelessWidget {
   final String _avatar = 'images/abdul.jpg';
   final String _description =
-      "I am Wordpress developer & FLutter Developer. I created Many Websites. I have Experince Around 1.5 years. ";
+      "I am Wordpress developer  has around 1.5 years experience developing Websites, Ecommerce Websites using different languages and techniques. ";
 
   @override
   Widget build(BuildContext context) => ResponsiveWidget(
